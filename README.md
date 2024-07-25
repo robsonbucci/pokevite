@@ -44,4 +44,4 @@ O projeto PokeVite é uma aplicação front-end desenvolvida com Vue 3, Vite e B
 
 ### **Conclusão**
 
-O projeto PokeVite é uma demonstração de habilidades em desenvolvimento front-end com Vue 3, Vite e Bootstrap. A aplicação mostra a capacidade de criar uma experiência de usuário rica e interativa, consumindo dados de uma API externa. Este projeto é ideal para recrutadores que buscam desenvolvedores front-end com habilidades em tecnologias modernas e capacidade de integração com serviços externos.
+O projeto PokeVite é uma demonstração de habilidades em desenvolvimento front-end com Vue 3, Vite e Bootstrap. A aplicação mostra a capacidade de criar uma experiência de usuário rica e interativa, consumindo dados de uma API externa.
