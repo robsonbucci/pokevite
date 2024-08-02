@@ -3,7 +3,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-complete-green?style=for-the-badge)
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Robosn%20Messias-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-messias/)
 [![GitHub](https://img.shields.io/badge/GitHub-RobsonBucci-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robsonbucci)
